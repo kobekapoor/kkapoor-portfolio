@@ -86,19 +86,23 @@ module.exports = {
 					"0%": {
 						"line-height": "0%",
 						"letter-spacing": "0.25em",
+						padding: "0px",
 						opacity: "0",
 					},
 					"25%": {
 						"line-height": "0%",
+						padding: "0px",
 						opacity: "0%",
 					},
 					"80%": {
 						opacity: "100%",
+						padding: "16px"
 					},
 
 					"100%": {
 						"line-height": "100%",
 						opacity: "100%",
+						padding: "16px"
 					},
 				},
 			},
